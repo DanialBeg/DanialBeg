@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm a 3rd year Computer Science major at the University of California, Riverside.
+
+Currently, looking for a summer 2021 Software Engineering Internship opportunity! Feel free to reach out if you would like to connect!
+
+Serving as the Vice President for ACM@UCR (https://acmucr.org/) and Director of Citrus Hack (https://citrushack.com/).
 
 <!--
 **DanialBeg/DanialBeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
