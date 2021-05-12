@@ -2,7 +2,7 @@
 
 I'm a 3rd year Computer Science major at the University of California, Riverside.
 
-Currently, preparing for Citrus Hack 2021! Feel free to reach out if you would like to connect!
+Feel free to reach out if you would like to connect!
 
 Serving as the Director of [Citrus Hack](https://citrushack.com/).
 
