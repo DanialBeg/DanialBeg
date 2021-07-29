@@ -1,10 +1,8 @@
 ### Hello! 👋
 
-I'm a 3rd year Computer Science major at the University of California, Riverside.
+I'm a 4th year Computer Science major at the University of California, Riverside.
 
 Feel free to reach out if you would like to connect!
-
-Serving as the Director of [Citrus Hack](https://citrushack.com/).
 
 If you're interested in learning more about my work feel free to check out my [website](https://danialbeg.com/)!
 
