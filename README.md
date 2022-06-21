@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a 4th year Computer Science major at the University of California, Riverside.
+I'm a Software Engineer at BAE Systems.
 
 Feel free to reach out if you would like to connect!
 
