@@ -1,6 +1,8 @@
 ### Hello! 👋
 
-I'm currently pursuing my Master's of Science in Computer Science @ UCI. I'm also working as a Software Engineer at BAE Systems.
+I'm currently working as a Software Engineer at BAE Systems focusing on AI/ML initiatives. 
+
+I graduated with a Master's of Computer Science from the University of California, Irvine in 2023.
 
 Feel free to reach out if you would like to connect!
 
