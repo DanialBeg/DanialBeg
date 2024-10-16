@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm currently working as a Software Engineer at BAE Systems focusing on AI/ML initiatives. 
+I'm currently working as a Machine Learning Engineer @ Latham & Watkins. 
 
 I graduated with a Master's of Computer Science from the University of California, Irvine in 2023.
 
